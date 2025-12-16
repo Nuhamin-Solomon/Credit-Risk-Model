@@ -6,5 +6,9 @@ flake8
 pandas
 numpy
 scikit-learn
-mlflow
-pytest
+
+matplotlib
+seaborn
+scipy
+xgboost
+lightgbm
