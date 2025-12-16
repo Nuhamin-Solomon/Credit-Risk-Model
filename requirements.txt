@@ -1,10 +1,14 @@
-numpy
+fastapi
+uvicorn
+mlflow
+pydantic
+flake8
 pandas
+numpy
 scikit-learn
+
 matplotlib
 seaborn
 scipy
 xgboost
 lightgbm
-mlflow
-pytest
