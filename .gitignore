@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv
+*.egg-info
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and results
+data/
+results/
+*.csv
+*.pkl
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# OS files
+.DS_Store
+Thumbs.db
